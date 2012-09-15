@@ -1,3 +1,4 @@
+# This project is no longer actively maintained. Please see an additionally popular statsd client at: [https://github.com/reinh/statsd](https://github.com/reinh/statsd)
 statsd-client
 =============
 
